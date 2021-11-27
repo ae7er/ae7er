@@ -2,7 +2,7 @@
 
 ✨ Меня зовут Экскал.
 
-🐍 Я Python-кодер.
+🐍 Я [Python](https://python.org)-кодер.
 
 🌐 Программирую в Visual Studio [Code](https://code.visualstudio.com), JetBrains [PyCharm](https://jetbrains.com/pycharm) и Sublime [Text](https://sublimetext.com)
 
