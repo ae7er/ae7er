@@ -6,4 +6,4 @@
 
 
 
-![Статистика моего профиля](https://github-readme-stats.vercel.app/api?username=ae7er&show_icons=true&theme=radical)
+![Статистика моего профиля](https://github-readme-stats.vercel.app/api?username=ae7er&show_icons=true&theme=github_dark)
